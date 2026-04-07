@@ -12,7 +12,7 @@ A <strong>Contnue Shopping</strong> and <b> Checkout</b> buttons.
 
 In this project, I will apply the knowledge and skills gained from the practice project to implement dynamic functionalities in the final project.
 
-##Learning objectives
+## Learning objectives
 After completing this project, I am equiped and able to:
 - React Components: Create functional React components using component composition and nesting.
 - State Management with Hooks: Implement React Hooks, specifically the useState and useEffect hooks. I will manage component-level state using hooks to control the visibility of elements.
