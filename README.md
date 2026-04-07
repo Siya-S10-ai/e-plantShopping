@@ -22,6 +22,7 @@ Handling Events and Conditional Rendering: Handle user events such as button sel
 
 ### Key demonstrations in this project include:
 - Basic HTML and CSS
+- Intermediate JavaScript
 - Code Management using GitHub
 - Understanding of React function components, props, hooks and React Redux Toolkit
-- Intermediate JavaScript
+
