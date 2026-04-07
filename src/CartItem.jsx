@@ -12,13 +12,14 @@ const CartItem = ({ onContinueShopping }) => {
     let total = 0;
     cart.forEach((item) => {
       total += item.cost * item.quantity;
+      // total = parseFloat(item.cost.substring(1)); // Use this method in case the cost is stored as a string (R50)
     })
     return total;
  
   };
 
   const handleContinueShopping = (e) => {
-   
+    {onContinueShopping(e)};
   };
 
 
