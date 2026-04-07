@@ -1,7 +1,7 @@
-#E-Plant Shopping
+# E-Plant Shopping
 E-Plant Shopping is a shopping cart application for an online shop which offers a variety of house plants.
 
-##The <i>The Paradise Nursery</i> shopping cart features will include:
+## The <i>The Paradise Nursery</i> shopping cart features will include:
 - A Langing page with a button linking to the product listing page.
 - A navigation bar with links to the landing, product listing, and shopping cart pages.
 - A card for each plant that showcases the different plants along with their images, name, description, cost and an <strong>Add to cart</strong> button.
@@ -12,7 +12,7 @@ A <strong>Contnue Shopping</strong> and <b> Checkout</b> buttons.
 
 In this project, I will apply the knowledge and skills gained from the practice project to implement dynamic functionalities in the final project.
 
-##Learning objectives
+## Learning objectives
 After completing this project, I am equiped and able to:
 - React Components: Create functional React components using component composition and nesting.
 - State Management with Hooks: Implement React Hooks, specifically the useState and useEffect hooks. I will manage component-level state using hooks to control the visibility of elements.
